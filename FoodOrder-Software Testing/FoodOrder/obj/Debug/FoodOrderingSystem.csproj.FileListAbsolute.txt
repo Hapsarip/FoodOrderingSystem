@@ -1,0 +1,4 @@
+D:\PPL\Food Order\Chapter 5\Chapter 5\obj\Debug\FoodOrderingSystem.csproj.AssemblyReference.cache
+D:\PPL\Food Order\Chapter 5\Chapter 5\obj\Debug\FoodOrderingSystem.csproj.SuggestedBindingRedirects.cache
+D:\PPL\Food Order\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Form1.resources
+D:\PPL\Food Order\Chapter 5\Chapter 5\obj\Debug\FoodOrderingSystem.csproj.GenerateResource.cache
